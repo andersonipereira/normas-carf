@@ -1,14 +1,12 @@
 # Índice Sistemático-Remissivo de Normas do CARF
 
-**RICARF** = Portaria MF nº 1.634/2023 (<a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.634/2023</a>)
-
 ---
 
 ## ORGANIZAÇÃO E COMPETÊNCIA
 
 ### Competência
 - **Extensão de Competência — 1ª e 2ª Seções**
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 15, § 3º; 23, XI
+  - **RICARF (Portaria MF nº 1.634/2023)** — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.634/2023</a> Arts. 15, § 3º; 23, XI
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-1643.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 1.643/2024</a> — Arts. 1º a 5º
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3087.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.087/2026</a> — Arts. 1º a 8º
 - **Redistribuição de Acervo**
@@ -31,10 +29,6 @@
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-se-mf-1361-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.361/2023</a> — Arts. 1º a 5º
 - **Distribuição de Vagas — Representantes dos Contribuintes**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-453-distribuicao-de-vagas-contribuintes.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 453/2019</a> — Arts. 1º a 6º
-- **CSC — Comissão de Seleção de Conselheiros**
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/view" target="_blank" rel="noopener noreferrer"><strong>CSC</strong></a> — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 3.274/2026</a> — Arts. 1º a 12
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-se-mf-1361-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.361/2023</a> — Arts. 1º a 5º
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-453-distribuicao-de-vagas-contribuintes.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 453/2019</a> — Arts. 1º a 6º
 
 ---
 
@@ -43,19 +37,19 @@
 ### Recurso Especial
 - **Pressupostos e Rito**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 37, § 2º; 40
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3241.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Recurso Especial</strong></a> — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3241.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.241/2026</a> — Arts. 1º a 15
+  - **Manual de Recurso Especial (Portaria CARF/MF nº 3.241/2026)** — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3241.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.241/2026</a> — Arts. 1º a 15
 - **Desistência de Recurso Especial**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-587.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 587/2024</a>
 
 ### Embargos de Declaração
 - **Cabimento, Efeitos e Julgamento**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 48 a 50
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3242.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Embargos de Declaração</strong></a> — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3242.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.242/2026</a> — Arts. 1º a 12
+  - **Manual de Embargos de Declaração (Portaria CARF/MF nº 3.242/2026)** — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3242.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.242/2026</a> — Arts. 1º a 12
 
 ### Agravos (Interno e Regimental)
 - **Cabimento, Julgamento e Sustentação Oral**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 44 a 47
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3243.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Agravo Interno e Regimental</strong></a> — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3243.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.243/2026</a> — Arts. 1º a 14
+  - **Manual de Agravo Interno e Regimental (Portaria CARF/MF nº 3.243/2026)** — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3243.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.243/2026</a> — Arts. 1º a 14
 
 ### Recurso de Ofício
 - **Valor Limite para Interposição**
@@ -75,9 +69,9 @@
 - **Regras Gerais**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 72 a 74
 - **Particularidades por Tipo de Recurso**
-  - **Recurso Especial** — Arts. 10 a 12 do <strong>Manual de Recurso Especial</strong> (<a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3241.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.241/2026</a> — Arts. 1º a 15)
-  - **Embargos de Declaração** — Arts. 5 a 7 do <strong>Manual de Embargos de Declaração</strong> (<a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3242.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.242/2026</a> — Arts. 1º a 12)
-  - **Agravos** — Arts. 5 a 7 do <strong>Manual de Agravo Interno e Regimental</strong> (<a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3243.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.243/2026</a> — Arts. 1º a 14)
+  - **Recurso Especial** — Arts. 10 a 12 do <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3241.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Recurso Especial</strong></a>
+  - **Embargos de Declaração** — Arts. 5 a 7 do <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3242.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Embargos de Declaração</strong></a>
+  - **Agravos** — Arts. 5 a 7 do <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3243.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Agravo Interno e Regimental</strong></a>
 
 ### Voto de Qualidade e Empate
 - **Voto de Qualidade (Regra Principal de Desempate)**
@@ -117,7 +111,7 @@
 
 ### CSC — Comissão de Seleção de Conselheiros
 - **Critérios, Vagas e Procedimento**
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/view" target="_blank" rel="noopener noreferrer"><strong>CSC</strong></a> — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 3.274/2026</a> — Arts. 1º a 12
+  - **CSC (Comissão de Seleção de Conselheiros) (Portaria MF nº 3.274/2026)** — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 3.274/2026</a> — Arts. 1º a 12
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-se-mf-1361-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.361/2023</a> — Arts. 1º a 5º
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-453-distribuicao-de-vagas-contribuintes.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 453/2019</a> — Arts. 1º a 6º
 
