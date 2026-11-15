@@ -7,13 +7,11 @@
 ### Competência
 #### Extensão de Competência — 1ª e 2ª Seções
 - **RICARF** ([Portaria MF nº 1.634/2023](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/@@download/file)) — Arts. 15, § 3º; 23, XI
-- [Portaria CARF/MF nº 1.643/2024](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-1643.pdf/@@download/file) — Arts. 1º a 5º
 - [Portaria CARF/MF nº 3.087/2026](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3087.pdf/@@download/file) — Arts. 1º a 8º
 
 #### Redistribuição de Acervo e Alçada
 - [**RICARF**](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/@@download/file) — Arts. 15 a 23
 - [Portaria CARF/MF nº 637/2024](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-637.pdf/@@download/file) — Arts. 1º a 6º
-- [Portaria CARF/MF nº 1.643/2024](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-1643.pdf/@@download/file) — Arts. 1º a 5º
 
 ### Estrutura e Composição dos Colegiados
 #### Plenário, Seções, Câmaras e Turmas
@@ -29,7 +27,7 @@
 - [Portaria MF nº 1.361/2023](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-se-mf-1361-2023.pdf/@@download/file) — Arts. 1º a 5º
 
 #### Distribuição de Vagas — Representantes dos Contribuintes
-- [Portaria MF nº 453/2019](https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2019/portaria-me-453-distribuicao-de-vagas-contribuintes.pdf) — Arts. 1º a 6º
+- [Portaria MF nº 3.273/2026](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-2323.pdf/@@download/file) — Arts. 1º a 6º
 
 ---
 
@@ -67,6 +65,7 @@
 - [**RICARF**](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/@@download/file) — Arts. 62 a 71
 - [Portaria MF nº 139/2023](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-139-retirada-de-pauta.pdf/@@download/file) — Arts. 1º a 4º
 - [Portaria CARF/MF nº 20.176/2020](https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf) — Arts. 1º a 10 (Gestão da Pauta)
+- [Portaria CARF/MF nº 1.643/2024](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-1643.pdf/@@download/file) — Arts. 1º a 5º (Calendário de sessões de julgamento)
 
 ### Sustentação Oral
 #### Regras Gerais
@@ -119,7 +118,6 @@
 #### Critérios, Vagas e Procedimento
 - [Portaria MF nº 3.274/2026](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/@@download/file) — Arts. 1º a 12
 - [Portaria MF nº 1.361/2023](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-se-mf-1361-2023.pdf/@@download/file) — Arts. 1º a 5º
-- [Portaria MF nº 453/2019](https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2019/portaria-me-453-distribuicao-de-vagas-contribuintes.pdf) — Arts. 1º a 6º
 
 ### Afastamentos e Teletrabalho
 #### Férias, Licenças e Afastamentos
@@ -234,4 +232,4 @@
 
 ---
 
-**Repositório NÃO OFICIAL, com ênfase nas principais normas e tópicos de interesse dos Conselheiros.**
+⚠️ **Repositório NÃO OFICIAL, com ênfase nas principais normas e tópicos de interesse dos Conselheiros.** ⚠️
