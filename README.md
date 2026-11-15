@@ -6,7 +6,7 @@
 
 ### Competência
 - **Extensão de Competência — 1ª e 2ª Seções**
-  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF (Portaria MF nº 1.634/2023)</strong></a> — Arts. 15, § 3º; 23, XI
+  - **RICARF** (<a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.634/2023</a>) — Arts. 15, § 3º; 23, XI
   - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1643/2024" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 1.643/2024</a> — Arts. 1º a 5º
   - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/3087/2026" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.087/2026</a> — Arts. 1º a 8º
 - **Redistribuição de Acervo**
@@ -37,7 +37,6 @@
   - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1361/2023" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.361/2023</a> — Arts. 1º a 5º
 
 ### Estrutura Judiciária
-#### Plenário, Seções, Câmaras e Turmas
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 1º a 14
 
 ---
@@ -94,10 +93,10 @@
 - **Agravos** — Sem particularidades além das gerais
 
 ### Voto de Qualidade e Empate
-#### Voto de Qualidade (Regra Principal de Desempate)
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 67
-#### Empate Favorável ao Contribuinte (Regra Residual)
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 68
+- **Voto de Qualidade (Regra Principal de Desempate)**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 67
+- **Empate Favorável ao Contribuinte (Regra Residual)**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 68
 
 ### Súmulas
 #### Edição e Cancelamento
@@ -116,8 +115,7 @@
 ### Impedimento, Suspeição e Substituição
 #### Regras Gerais de Conduta e Impedimento
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 55 a 61
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/600/2024" target="_blank" rel="noopener noreferrer"><strong>Código de Conduta Ética</strong> (Portia CARF/MF nº 600/2024)</a> — Arts. 1º a 15
-- <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2019/portaria_carf-21-codigo-de-conduta-etica-dos-agentes-publicos-do-carf.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Código de Conduta Ética (Anterior)</strong> (Portaria CARF/MF nº 21/2019)</a>
+- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/600/2024" target="_blank" rel="noopener noreferrer"><strong>Código de Conduta Ética</strong> (Portaria CARF/MF nº 600/2024)</a> — Arts. 1º a 15
 
 ---
 
@@ -140,11 +138,11 @@
 > *Vide **Impedimento, Suspeição e Substituição** na Dinâmica da Sessão e Decisões*
 
 ### Afastamentos e Teletrabalho
-#### Férias, Licenças e Afastamentos
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 80 a 83
-#### Teletrabalho
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 80
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2017/portaria-mf-169-autoriza-o-teletrabalho-carf.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 169/2017</a> — Arts. 1º a 12
+- **Férias, Licenças e Afastamentos**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 80 a 83
+- **Teletrabalho**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 80
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2017/portaria-mf-169-autoriza-o-teletrabalho-carf.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 169/2017</a> — Arts. 1º a 12
 
 ---
 
@@ -169,37 +167,30 @@
 - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2021/portaria-me-7406-limite-de-valor-julgamento-virtual.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 7.406/2021</a> — Arts. 1º a 8º
 
 ### Gestão de Lotes e Acervo
-#### Lotes Ordinários — Composição, Carga, Prioridade, Dispensa (404/2025)
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 43, 62, 64, 65, 79
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/404/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 404/2025</a> — Arts. 1º a 4º, 5º, 6º, 7º e 12
-
-#### Processos Prioritários — Critérios no Lote Ordinário (404/2025)
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 65
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/404/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 404/2025</a> — Arts. 5º e 6º
-
-#### Lotes Extraordinários — Adesão, Horas, Renúncia (404/2025)
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 43 §4º, 52 I, 62 §3º, 79 §3º
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/404/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 404/2025</a> — Arts. 7º a 11
-
-#### Dispensa de Sorteio e Bloqueio de Distribuição (404/2025)
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 80 §2º, 83
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/404/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 404/2025</a> — Art. 12
-
-#### Pontuação, Redator Designado, Voto Vencedor (278/2025 + Anexo 404)
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 79, 43
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/278/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 278/2025</a> — Art. 12
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/404/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 404/2025</a> — Anexo (Art. 14)
-
-#### Triagem, Classificação e Formação de Lotes (278/2025)
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 43, 62
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/278/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 278/2025</a>
-
-#### Controle de Prazos Regimentais
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 62
-- <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 20.176/2020</a>
-
-#### Ação Afirmativa de Gênero
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1360/2023" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.360/2023</a> — Arts. 1º a 6º
+- **Lotes Ordinários — Composição, Carga, Prioridade, Dispensa**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 43, 62, 64, 65, 79
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/404/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 404/2025</a> — Arts. 1º a 4º, 5º, 6º, 7º e 12
+- **Processos Prioritários — Critérios no Lote Ordinário**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 65
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/404/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 404/2025</a> — Arts. 5º e 6º
+- **Lotes Extraordinários — Adesão, Horas, Renúncia**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 43 §4º, 52 I, 62 §3º, 79 §3º
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/404/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 404/2025</a> — Arts. 7º a 11
+- **Dispensa de Sorteio e Bloqueio de Distribuição**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 80 §2º, 83
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/404/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 404/2025</a> — Art. 12
+- **Pontuação, Redator Designado, Voto Vencedor**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 79, 43
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/278/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 278/2025</a> — Art. 12
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/404/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 404/2025</a> — Anexo (Art. 14)
+- **Triagem, Classificação e Formação de Lotes**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 43, 62
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/278/2025" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 278/2025</a>
+- **Controle de Prazos Regimentais**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 62
+  - <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 20.176/2020</a>
+- **Ação Afirmativa de Gênero**
+  - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1360/2023" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.360/2023</a> — Arts. 1º a 6º
 
 ---
 
@@ -210,22 +201,16 @@
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 3º, 4º, 55, 56
 - <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-500-comissao-de-etica-carf.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 500/2018</a> — Arts. 1º a 8º
 
-#### Código de Conduta Ética e Conflito de Interesses
+#### Código de Conduta Ética
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/600/2024" target="_blank" rel="noopener noreferrer"><strong>Código de Conduta Ética</strong> (Portaria CARF/MF nº 600/2024)</a> — Arts. 1º a 15
-- <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2019/portaria_carf-21-codigo-de-conduta-etica-dos-agentes-publicos-do-carf.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Código de Conduta Ética (Anterior)</strong> (Portaria CARF/MF nº 21/2019)</a>
 
 ### Políticas Institucionais
-#### Política da Qualidade
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/2321/2026" target="_blank" rel="noopener noreferrer"><strong>Política da Qualidade</strong> (Portaria CARF/MF nº 2.321/2026)</a>
-#### Política Antissuborno
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/2324/2026" target="_blank" rel="noopener noreferrer"><strong>Política Antissuborno</strong> (Portaria CARF/MF nº 2.324/2026)</a>
-#### Política de Integridade
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/2325/2026" target="_blank" rel="noopener noreferrer"><strong>Política de Integridade</strong> (Portaria CARF/MF nº 2.325/2026)</a>
 
 ### Governança e Riscos
-#### Comitê de Governança
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/2183/2025" target="_blank" rel="noopener noreferrer"><strong>Comitê de Governança</strong> (Portaria CARF/MF nº 2.183/2025)</a> — Arts. 1º a 8º
-#### Gestão de Riscos
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/2184/2025" target="_blank" rel="noopener noreferrer"><strong>Gestão de Riscos</strong> (Portaria CARF/MF nº 2.184/2025)</a> — Arts. 1º a 6º
 
 ### Infraestrutura Tecnológica e Sessões
@@ -245,4 +230,4 @@
 
 ---
 
-**Total: 41 verbetes únicos** (5 | 5 | 6 | 4 | 12 | 7) — Hierarquia 4 níveis, RICARF 100% linkado, links testados, `target="_blank"`, sem calendários/leis/Portaria 260/2020.
+*Hierarquia simplificada, RICARF 100% linkado, links testados, `target="_blank"`, sem calendários/leis/Portaria 260/2020.*
