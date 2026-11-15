@@ -100,7 +100,7 @@
 ### Edição e Cancelamento
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 89 a 91
 - <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-360-exclui-as-sumulas-carf-no-10-29-e-37.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 360/2018</a>
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf-2017/portaria-mf-578-exclui-sumula-39.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 578/2017</a>
+- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2017/portaria-mf-578-exclui-sumula-39.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 578/2017</a>
 - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2021/portaria-me-9910-exclui-a-sumula-no-119.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 9.910/2021</a>
 ### Efeito Vinculante
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 92 a 95
@@ -143,7 +143,7 @@
 ### Gratificação de Presença
 ### Requisitos, Cálculo e Pagamento
 - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1634/2023" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 76 a 78
-- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1500/2024" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 1.500/2024</a> — Arts. 1º a 12
+- <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1500/2024" target="_blank" rel="noopener noreferrer">Portia CARF/MF nº 1.500/2024</a> — Arts. 1º a 12
 
 ### Metas de Produtividade
 ### Definição, Aferição e Certificação
@@ -218,5 +218,3 @@
   - <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/2167/2026" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 2.167/2026</a>
 
 ---
-
-*Hierarquia simplificada, RICARF 100% linkado, links testados, `target="_blank"`, sem calendários/leis/Portaria 260/2020.*
