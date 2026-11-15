@@ -1,12 +1,14 @@
 # Índice Sistemático-Remissivo de Normas do CARF
 
+**RICARF** = Portaria MF nº 1.634/2023 (<a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.634/2023</a>)
+
 ---
 
 ## ORGANIZAÇÃO E COMPETÊNCIA
 
 ### Competência
 - **Extensão de Competência — 1ª e 2ª Seções**
-  - **RICARF** (<a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.634/2023</a>) — Arts. 15, § 3º; 23, XI
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 15, § 3º; 23, XI
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-1643.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 1.643/2024</a> — Arts. 1º a 5º
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3087.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.087/2026</a> — Arts. 1º a 8º
 - **Redistribuição de Acervo**
@@ -18,13 +20,10 @@
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-637.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 637/2024</a> — Arts. 1º a 6º
 
 ### Estrutura e Composição dos Colegiados
-#### Organização Judiciária
 - **Plenário, Seções, Câmaras e Turmas**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 1º a 9º
 - **Competência das Seções de Julgamento**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 10 a 14
-
-#### Composição e Vagas
 - **Composição de Colegiados**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 10 a 14
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2024/portaria-mf-2-2024.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 2/2024</a> — Arts. 1º a 8º
@@ -33,42 +32,32 @@
 - **Distribuição de Vagas — Representantes dos Contribuintes**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-453-distribuicao-de-vagas-contribuintes.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 453/2019</a> — Arts. 1º a 6º
 - **CSC — Comissão de Seleção de Conselheiros**
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/view" target="_blank" rel="noopener noreferrer"><strong>CSC</strong></a> — Arts. 1º a 12
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/view" target="_blank" rel="noopener noreferrer"><strong>CSC</strong></a> — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 3.274/2026</a> — Arts. 1º a 12
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-se-mf-1361-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.361/2023</a> — Arts. 1º a 5º
-
-### Estrutura Judiciária
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 1º a 14
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-453-distribuicao-de-vagas-contribuintes.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 453/2019</a> — Arts. 1º a 6º
 
 ---
 
 ## PROCESSO E RECURSOS
 
 ### Recurso Especial
-#### Admissibilidade e Procedimento
 - **Pressupostos e Rito**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 37, § 2º; 40
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3241.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Recurso Especial</strong></a> — Arts. 1º a 15
-    - *Vide também: **Sustentação Oral** (Dinâmica da Sessão e Decisões)*
-### Desistência
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3241.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Recurso Especial</strong></a> — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3241.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.241/2026</a> — Arts. 1º a 15
 - **Desistência de Recurso Especial**
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-587.pdf/view" target="_blank" rel="noopener noreferrer">Portia CARF/MF nº 587/2024</a>
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-587.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 587/2024</a>
 
 ### Embargos de Declaração
-#### Rito Processual
 - **Cabimento, Efeitos e Julgamento**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 48 a 50
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3242.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Embargos de Declaração</strong></a> — Arts. 1º a 12
-    - *Vide também: **Sustentação Oral** (Dinâmica da Sessão e Decisões)*
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3242.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Embargos de Declaração</strong></a> — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3242.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.242/2026</a> — Arts. 1º a 12
 
 ### Agravos (Interno e Regimental)
-#### Rito Processual
 - **Cabimento, Julgamento e Sustentação Oral**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 44 a 47
-  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3243.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Agravo Interno e Regimental</strong></a> — Arts. 1º a 14
-    - *Vide também: **Sustentação Oral** (Dinâmica da Sessão e Decisões)*
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3243.pdf/view" target="_blank" rel="noopener noreferrer"><strong>Manual de Agravo Interno e Regimental</strong></a> — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3243.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.243/2026</a> — Arts. 1º a 14
 
 ### Recurso de Ofício
-#### Limite de Valor (Alçada DRJ)
 - **Valor Limite para Interposição**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 38
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-2-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 2/2023</a>
@@ -78,17 +67,17 @@
 ## DINÂMICA DA SESSÃO E DECISÕES
 
 ### Pauta
-#### Formação, Prioridade, Retirada e Adiamento
-- **Regras Gerais**
+- **Formação, Prioridade, Retirada e Adiamento**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 62 a 71
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-139-retirada-de-pauta.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 139/2023</a> — Arts. 1º a 4º
 
 ### Sustentação Oral
-#### Regras Gerais
-- **Inscrição, Tempo, Apartes, Ordem**
+- **Regras Gerais**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 72 a 74
-#### Particularidades
-- **Recurso Especial** — Arts. 10 a 12 do <strong>Manual de Recurso Especial</strong> — Arts. 1º a 15
+- **Particularidades por Tipo de Recurso**
+  - **Recurso Especial** — Arts. 10 a 12 do <strong>Manual de Recurso Especial</strong> (<a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3241.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.241/2026</a> — Arts. 1º a 15)
+  - **Embargos de Declaração** — Arts. 5 a 7 do <strong>Manual de Embargos de Declaração</strong> (<a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3242.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.242/2026</a> — Arts. 1º a 12)
+  - **Agravos** — Arts. 5 a 7 do <strong>Manual de Agravo Interno e Regimental</strong> (<a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3243.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 3.243/2026</a> — Arts. 1º a 14)
 
 ### Voto de Qualidade e Empate
 - **Voto de Qualidade (Regra Principal de Desempate)**
@@ -97,66 +86,67 @@
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 68
 
 ### Súmulas
-#### Edição e Cancelamento
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 89 a 91
-- <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-360-exclui-as-sumulas-carf-no-10-29-e-37.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 360/2018</a>
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2017/portaria-mf-578-exclui-sumula-39.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 578/2017</a>
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2021/portaria-me-9910-exclui-a-sumula-no-119.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 9.910/2021</a>
-#### Efeito Vinculante
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 92 a 95
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2018/portarias-mf-277-sumulas-efeito-vinculantes.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 277/2018</a> — Arts. 1º a 5º
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-129-sumulas_efeito-vinculante.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 129/2019</a> — Arts. 1º a 6º
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2020/portaria-me-410-2020.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 410/2020</a> — Arts. 1º a 8º
-#### Comitê de Súmulas
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-541-revoga-comite-de-sumulas.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 541/2019</a>
+- **Edição e Cancelamento**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 89 a 91
+  - <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-360-exclui-as-sumulas-carf-no-10-29-e-37.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 360/2018</a>
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2017/portaria-mf-578-exclui-sumula-39.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 578/2017</a>
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2021/portaria-me-9910-exclui-a-sumula-no-119.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 9.910/2021</a>
+- **Efeito Vinculante**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 92 a 95
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2018/portarias-mf-277-sumulas-efeito-vinculantes.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 277/2018</a> — Arts. 1º a 5º
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-129-sumulas_efeito-vinculante.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 129/2019</a> — Arts. 1º a 6º
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2020/portaria-me-410-2020.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 410/2020</a> — Arts. 1º a 8º
+- **Comitê de Súmulas**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-541-revoga-comite-de-sumulas.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 541/2019</a>
 
 ### Impedimento, Suspeição e Substituição
-#### Regras Gerais de Conduta e Impedimento
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 55 a 61
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-600.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 600/2024</a> — Arts. 1º a 15
+- **Regras Gerais de Conduta e Impedimento**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 55 a 61
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-600.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 600/2024</a> — Arts. 1º a 15
 
 ---
 
 ## MANDATO DO CONSELHEIRO
 
 ### Mandato
-#### Duração, Posse, Recondução, Vacância e Extinção
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 24 a 33, 68, 80
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-se-mf-1361-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.361/2023</a> — Arts. 1º a 5º
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2024/portaria-se-mf-11-2024.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 11/2024</a> — Arts. 1º a 4º
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2024/portaria-mf-2-2024.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 2/2024</a> — Arts. 1º a 8º
+- **Duração, Posse, Recondução, Vacância e Extinção**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 24 a 33, 68, 80
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-se-mf-1361-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.361/2023</a> — Arts. 1º a 5º
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2024/portaria-se-mf-11-2024.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 11/2024</a> — Arts. 1º a 4º
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2024/portaria-mf-2-2024.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 2/2024</a> — Arts. 1º a 8º
 
 ### CSC — Comissão de Seleção de Conselheiros
-#### Critérios, Vagas e Procedimento
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/view" target="_blank" rel="noopener noreferrer"><strong>CSC</strong></a> — Arts. 1º a 12
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-se-mf-1361-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.361/2023</a> — Arts. 1º a 5º
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-453-distribuicao-de-vagas-contribuintes.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 453/2019</a> — Arts. 1º a 6º
+- **Critérios, Vagas e Procedimento**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/view" target="_blank" rel="noopener noreferrer"><strong>CSC</strong></a> — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 3.274/2026</a> — Arts. 1º a 12
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-se-mf-1361-2023.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 1.361/2023</a> — Arts. 1º a 5º
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-453-distribuicao-de-vagas-contribuintes.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 453/2019</a> — Arts. 1º a 6º
 
 ### Afastamentos e Teletrabalho
-- **Férias, Licenças e Afastamentos** — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> (Arts. 80 a 83)
-- **Teletrabalho** — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> (Art. 80) + <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2017/portaria-mf-169-autoriza-o-teletrabalho-carf.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 169/2017</a> (Arts. 1º a 12)
+- **Férias, Licenças e Afastamentos**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 80 a 83
+- **Teletrabalho**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Art. 80
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2017/portaria-mf-169-autoriza-o-teletrabalho-carf.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 169/2017</a> — Arts. 1º a 12
 
 ---
 
 ## PRODUTIVIDADE, METAS E LOTES
 
 ### Gratificação de Presença
-#### Requisitos, Cálculo e Pagamento
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 76 a 78
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-1500.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 1.500/2024</a> — Arts. 1º a 12
+- **Requisitos, Cálculo e Pagamento**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 76 a 78
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-1500.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 1.500/2024</a> — Arts. 1º a 12
 
 ### Metas de Produtividade
-#### Definição, Aferição e Certificação
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 79 a 88
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-467-gratificacao-de-presenca.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 467/2019</a> — Arts. 1º a 10
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-se_me-1008-e-1011-equipe-de-analise-de-retorno-e-distribuicao-dipro.pdf/view" target="_blank" rel="noopener noreferrer">Portaria SE/MF nº 1.008/2019</a> — Arts. 1º a 7º
-
-### Metas Específicas — Pequeno Valor
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2021/portaria-me-665-limite-de-valor-para-julgamento-sessoes-virtuais.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 665/2021</a> — Arts. 1º a 5º
-
-### Metas Específicas — Sessões Não Presenciais
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2021/portaria-me-3138-limite-de-valor-para-julgamento-sessoes-virtuais.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 3.138/2021</a> — Arts. 1º a 6º
-- <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2021/portaria-me-7406-limite-de-valor-julgamento-virtual.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 7.406/2021</a> — Arts. 1º a 8º
+- **Definição, Aferição e Certificação**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 79 a 88
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-me-467-gratificacao-de-presenca.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 467/2019</a> — Arts. 1º a 10
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2019/portaria-se_me-1008-e-1011-equipe-de-analise-de-retorno-e-distribuicao-dipro.pdf/view" target="_blank" rel="noopener noreferrer">Portaria SE/MF nº 1.008/2019</a> — Arts. 1º a 7º
+- **Metas Específicas — Pequeno Valor**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2021/portaria-me-665-limite-de-valor-para-julgamento-sessoes-virtuais.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 665/2021</a> — Arts. 1º a 5º
+- **Metas Específicas — Sessões Não Presenciais**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2021/portaria-me-3138-limite-de-valor-para-julgamento-sessoes-virtuais.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 3.138/2021</a> — Arts. 1º a 6º
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2021/portaria-me-7406-limite-de-valor-julgamento-virtual.pdf/view" target="_blank" rel="noopener noreferrer">Portaria ME nº 7.406/2021</a> — Arts. 1º a 8º
 
 ### Gestão de Lotes e Acervo
 - **Lotes Ordinários — Composição, Carga, Prioridade, Dispensa**
@@ -192,7 +182,8 @@
 - **Comissão de Ética**
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2023/portaria-mf-1634-2023.pdf/view" target="_blank" rel="noopener noreferrer"><strong>RICARF</strong></a> — Arts. 3º, 4º, 55, 56
   - <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-500-comissao-de-etica-carf.pdf/view" target="_blank" rel="noopener noreferrer">Portaria MF nº 500/2018</a> — Arts. 1º a 8º
-- **Código de Conduta Ética** — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-600.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 600/2024</a> — Arts. 1º a 15
+- **Código de Conduta Ética**
+  - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-600.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 600/2024</a> — Arts. 1º a 15
 
 ### Políticas Institucionais
 - **Política da Qualidade** — <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-2321.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 2.321/2026</a>
@@ -218,3 +209,5 @@
   - <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-2167.pdf/view" target="_blank" rel="noopener noreferrer">Portaria CARF/MF nº 2.167/2026</a>
 
 ---
+
+**Repositório NÃO OFICIAL, com ênfase nas principais normas e tópicos de interesse dos Conselheiros.**
