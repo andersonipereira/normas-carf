@@ -1,7 +1,5 @@
 # Índice Sistemático-Remissivo de Normas do CARF
 
-⚠️ **Repositório NÃO OFICIAL, com ênfase nas principais normas e tópicos de interesse dos Conselheiros.** ⚠️
-
 ---
 
 ## ORGANIZAÇÃO E COMPETÊNCIA
@@ -333,5 +331,3 @@
 - [Portaria MF nº 3.274/2026](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/@@download/file) [PDF](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-do-mf-de-interesse-do-carf/2026/portaria-mf-3274-2026.pdf/@@download/file) — Arts. 1º a 12
 
 ---
-
-⚠️ **Repositório NÃO OFICIAL, com ênfase nas principais normas e tópicos de interesse dos Conselheiros.** ⚠️
