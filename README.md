@@ -130,7 +130,7 @@
 - [Portaria CARF/MF nº 278/2025](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2025/portaria-278.pdf/@@display-file/file) — Arts. 1º a 12
 - [Portaria CARF/MF nº 8/2024](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-carf-no-8.pdf/@@display-file/file) — Arts. 1º a 10 | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-carf-no-8.pdf/@@display-file/file" target="_blank" rel="noopener noreferrer">📄 PDF</a>
 - [Portaria CARF/MF nº 1.240/2024](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/139627) | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-1240.pdf/@@display-file/file" target="_blank" rel="noopener noreferrer">📄 PDF</a>
-- [Portaria MF nº 2489/2026](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153182) — Exclusão Súmula 147
+- [Portaria MF nº 2.489/2026](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153182) — Exclusão Súmula 147
 
 #### Efeito Vinculante
 - [**RICARF**](https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf) — Arts. 92 a 95 | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank" rel="noopener noreferrer">📄 PDF</a>
@@ -141,7 +141,7 @@
 - [Portaria CARF/MF nº 278/2025](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2025/portaria-278.pdf/@@display-file/file) — Arts. 1º a 12
 - [Portaria CARF/MF nº 8/2024](https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-carf-no-8.pdf/@@display-file/file) — Arts. 1º a 10 | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-carf-no-8.pdf/@@display-file/file" target="_blank" rel="noopener noreferrer">📄 PDF</a>
 - [Portaria CARF/MF nº 1.240/2024](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/139627) | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2024/portaria-1240.pdf/@@display-file/file" target="_blank" rel="noopener noreferrer">📄 PDF</a>
-- [Portaria MF nº 1785/2026](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152405) — Súmulas 188 a 202
+- [Portaria MF nº 1.785/2026](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152405) — Súmulas 188 a 202
 
 #### Comitê de Súmulas
 - [Portaria ME nº 541/2019](https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2019/portaria-me-541-revoga-comite-de-sumulas.pdf) | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2019/portaria-me-541-revoga-comite-de-sumulas.pdf" target="_blank" rel="noopener noreferrer">📄 PDF</a>
