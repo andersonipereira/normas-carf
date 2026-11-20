@@ -181,23 +181,17 @@
 - Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 404/2025 — Arts. 2 a 3, 14 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 - Portaria MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
-## GOVERNANÇA, ÉTICA E INFRAESTRUTURA
+## ÉTICA E POLÍTICAS INSTITUCIONAIS
 
 ### Ética
-#### Comissão de Ética
-- RICARF — Arts. 3º, 4º, 55, 56 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-500-comissao-de-etica-carf.pdf" target="_blank">PDF</a>
-- Portaria MF nº 500/2018 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/97714" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-500-comissao-de-etica-carf.pdf" target="_blank">PDF</a>
-
+- RICARF — Arts. 3º, 4º, 55, 56 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 #### Vedação de Divulgação de Informação Privilegiada
 - Portaria CARF/MF nº 397/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a>
 
 #### Código de Conduta Ética
-- Portaria CARF nº 21/2019 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://carf.economia.gov.br/noticias/2019/arquivos-e-imagens/portaria-carf-21-2019-codigo-conduta-etica.pdf/view" target="_blank">PDF</a>
+- Portaria CARF nº 21/2019 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2019/portaria_carf-21-codigo-de-conduta-etica-dos-agentes-publicos-do-carf.pdf" target="_blank">PDF</a>
 
 ### Políticas Institucionais
-#### Política da Qualidade
-- Portaria CARF/MF nº 2.321/2026 — Arts. 1º a 16 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152745" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf_mf-no-2-321-de-5-de-agosto-de-2026-portaria-carf_mf-no-2-321-de-5-de-agosto-de-2026-dou-imprensa-nacional.pdf/@@display-file/file" target="_blank">PDF</a>
-
 #### Política Antissuborno
 - Portaria CARF/MF nº 2.324/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152744" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf_mf-no-2-324-de-5-de-agosto-de-2026-portaria-carf_mf-no-2-324-de-5-de-agosto-de-2026-dou-imprensa-nacional.pdf/@@display-file/file" target="_blank">PDF</a>
 
