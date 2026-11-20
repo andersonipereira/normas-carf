@@ -33,26 +33,50 @@
 
 ### Recurso Especial
 #### Pressupostos e Rito
-- RICARF — Arts. 37, § 2º; 40 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 118 a 121 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
 - Manual de Recurso Especial (Portaria CARF/MF nº 3.241/2026) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154506" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-3241-de-5-de-novembro-de-2026-aprova-o-manual-de-exame-de-admissibilidade-de-recurso-especial-do-conselho-administrativo-de-recursos-fiscais-carf/@@display-file/file" target="_blank">📄 PDF</a>
+
+#### Admissibilidade
+- RICARF — Arts. 118 a 119 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+
+#### Contrarrazões e Tramitação
+- RICARF — Arts. 120 a 121 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
 
 #### Desistência de Recurso Especial
 - Portaria CARF/MF nº 587/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/137373" target="_blank">HTML</a> | <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-16-04-2024-regulamenta-a-apresentacao-de-desistencia-de-resursos-especial.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 133 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
 - Manual de Recurso Especial — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154506" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-3241-de-5-de-novembro-de-2026-aprova-o-manual-de-exame-de-admissibilidade-de-recurso-especial-do-conselho-administrativo-de-recursos-fiscais-carf/@@display-file/file" target="_blank">📄 PDF</a>
 
 ### Embargos de Declaração
 #### Cabimento, Efeitos e Julgamento
-- RICARF — Arts. 48 a 50 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 116 a 117 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
 - Manual de Embargos de Declaração (Portaria CARF/MF nº 3.242/2026) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154507" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3-242.pdf/@@display-file/file" target="_blank">📄 PDF</a>
+
+#### Inexatidão Material / Erro de Escrita ou Cálculo
+- RICARF — Art. 117 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+
 ### Agravos (Interno e Regimental)
 #### Cabimento, Julgamento e Sustentação Oral
-- RICARF — Arts. 44 a 47 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 122 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
 - Manual de Agravo Interno e Regimental — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154508" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3-243.pdf/@@display-file/file" target="_blank">📄 PDF</a>
 
 
+
+#### Agravo de Admissibilidade
+- RICARF — Art. 122 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+
 ### Recurso de Ofício
 #### Valor Limite para Interposição
-- RICARF — Art. 38 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 58, XIV; 59, X — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- Portaria MF nº 2/2023 — Art. 1º (R$ 15.000.000,00 para DRJs) — 🔗 <a href="https://www.in.gov.br/web/dou/-/portaria-mf-n-2-de-17-de-janeiro-de-2023-458695956" target="_blank">HTML</a> | <a href="https://www.in.gov.br/web/dou/-/portaria-mf-n-2-de-17-de-janeiro-de-2023-458695956" target="_blank">📄 PDF</a>
+
+#### Tramitação / Prioridade
+- RICARF — Art. 86, II — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+
+#### Conhecimento / Não Conhecimento
+- RICARF — Arts. 58, XIV; 59, X; 101 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+
+> **Nota:** A Portaria MF nº 2/2023 fixa limite de R$ 15.000.000,00 para interposição de recurso de ofício pelas Turmas de Julgamento das DRJs (1ª instância). Os conselheiros do CARF verificam o cumprimento desse limite ao conhecer do recurso, com base nos Arts. 58, XIV e 59, X do RICARF.
 
 ---
 
