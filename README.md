@@ -1,12 +1,12 @@
 # Índice Sistemático-Remissivo de Normas do CARF
 
 > [!NOTE]
-> **Compilado dos links disponíveis em sistemas públicos** para facilitar o acesso às normas administrativas do CARF.
+> _Compilado dos links disponíveis em sistemas públicos para facilitar o acesso às normas administrativas do CARF._
 >
-> Os links HTML (🔗) abrem o sistema de normas da SRFB e os links PDF abrem os arquivos disponíveis nas páginas do CARF.
+> _Os links HTML (🔗) abrem o sistema de normas da SRFB; os links PDF (📄) abrem os arquivos disponíveis nas páginas do CARF; os links DOU (🌐) abrem a norma no Diário Oficial da União._
 >
-> Algumas normas podem não conter link específico porque não foram encontradas nas fontes públicas até o momento.
-
+> _Algumas normas podem não conter link específico porque não foram encontradas nas fontes públicas até o momento._
+>
 
 ---
 
