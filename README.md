@@ -68,15 +68,10 @@
 ### Recurso de Ofício
 #### Valor Limite para Interposição
 - RICARF — Arts. 58, XIV; 59, X — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Portaria MF nº 2/2023 — Art. 1º (R$ 15.000.000,00 para DRJs) — 🔗 <a href="https://www.in.gov.br/web/dou/-/portaria-mf-n-2-de-17-de-janeiro-de-2023-458695956" target="_blank">HTML</a> | <a href="https://www.in.gov.br/web/dou/-/portaria-mf-n-2-de-17-de-janeiro-de-2023-458695956" target="_blank">📄 PDF</a>
+- Portaria MF nº 2/2023 — 🔗 <a href="https://www.in.gov.br/web/dou/-/portaria-mf-n-2-de-17-de-janeiro-de-2023-458695956" target="_blank">HTML</a> | <a href="https://www.in.gov.br/web/dou/-/portaria-mf-n-2-de-17-de-janeiro-de-2023-458695956" target="_blank">📄 PDF</a>
 
 #### Tramitação / Prioridade
 - RICARF — Art. 86, II — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-
-#### Conhecimento / Não Conhecimento
-- RICARF — Arts. 58, XIV; 59, X; 101 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-
-> **Nota:** A Portaria MF nº 2/2023 fixa limite de R$ 15.000.000,00 para interposição de recurso de ofício pelas Turmas de Julgamento das DRJs (1ª instância). Os conselheiros do CARF verificam o cumprimento desse limite ao conhecer do recurso, com base nos Arts. 58, XIV e 59, X do RICARF.
 
 ---
 
