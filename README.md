@@ -13,16 +13,16 @@
 ## ORGANIZAÇÃO E COMPETÊNCIA
 
 ### Competência
-- RICARF (Portaria MF nº 1.634/2023) — Arts. 42 a 51 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF (Portaria MF nº 1.634/2023) — Arts. 42 a 51 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 #### Extensão de Competência — 2ª e 3ª Seções
-- Portaria CARF/MF nº 3.087/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154193" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-3087-estende-temporariamente-a-competencia-para-julgar-recursos-referentes-a-irrf/@@display-file/file" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 3.087/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154193" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-3087-estende-temporariamente-a-competencia-para-julgar-recursos-referentes-a-irrf/@@display-file/file" target="_blank">PDF</a>
 
 ### Estrutura e Composição dos Colegiados
 #### Estrutura e Composição dos Colegiados
-- RICARF — Arts. 62 a 73 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 62 a 73 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 #### Atribuições dos Presidentes e Vice-Presidentes
-- RICARF — Arts. 57 a 61 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 57 a 61 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 ---
 
@@ -30,91 +30,91 @@
 
 ### Recurso Especial
 #### Pressupostos e Rito
-- RICARF — Arts. 118 a 121 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Manual de Recurso Especial (Portaria CARF/MF nº 3.241/2026) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154506" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-3241-de-5-de-novembro-de-2026-aprova-o-manual-de-exame-de-admissibilidade-de-recurso-especial-do-conselho-administrativo-de-recursos-fiscais-carf/@@display-file/file" target="_blank">📄 PDF</a>
+- RICARF — Arts. 118 a 121 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Manual de Recurso Especial (Portaria CARF/MF nº 3.241/2026) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154506" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-3241-de-5-de-novembro-de-2026-aprova-o-manual-de-exame-de-admissibilidade-de-recurso-especial-do-conselho-administrativo-de-recursos-fiscais-carf/@@display-file/file" target="_blank">PDF</a>
 
 #### Admissibilidade
-- RICARF — Arts. 118 a 119 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 118 a 119 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 #### Contrarrazões e Tramitação
-- RICARF — Arts. 120 a 121 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 120 a 121 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 #### Desistência de Recurso Especial
-- Portaria CARF/MF nº 587/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/137373" target="_blank">HTML</a> | <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-16-04-2024-regulamenta-a-apresentacao-de-desistencia-de-resursos-especial.pdf" target="_blank">📄 PDF</a>
-- RICARF — Art. 133 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Manual de Recurso Especial — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154506" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-3241-de-5-de-novembro-de-2026-aprova-o-manual-de-exame-de-admissibilidade-de-recurso-especial-do-conselho-administrativo-de-recursos-fiscais-carf/@@display-file/file" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 587/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/137373" target="_blank">HTML</a> | 📄 <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-16-04-2024-regulamenta-a-apresentacao-de-desistencia-de-resursos-especial.pdf" target="_blank">PDF</a>
+- RICARF — Art. 133 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Manual de Recurso Especial — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154506" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-3241-de-5-de-novembro-de-2026-aprova-o-manual-de-exame-de-admissibilidade-de-recurso-especial-do-conselho-administrativo-de-recursos-fiscais-carf/@@display-file/file" target="_blank">PDF</a>
 
 ### Embargos de Declaração
 #### Cabimento, Efeitos e Julgamento
-- RICARF — Arts. 116 a 117 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Manual de Embargos de Declaração (Portaria CARF/MF nº 3.242/2026) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154507" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3-242.pdf/@@display-file/file" target="_blank">📄 PDF</a>
+- RICARF — Arts. 116 a 117 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Manual de Embargos de Declaração (Portaria CARF/MF nº 3.242/2026) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154507" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3-242.pdf/@@display-file/file" target="_blank">PDF</a>
 
 #### Inexatidão Material / Erro de Escrita ou Cálculo
-- RICARF — Art. 117 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 117 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 ### Agravos (Interno e Regimental)
 #### Cabimento, Julgamento e Sustentação Oral
-- RICARF — Art. 122 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Manual de Agravo Interno e Regimental — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154508" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3-243.pdf/@@display-file/file" target="_blank">📄 PDF</a>
+- RICARF — Art. 122 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Manual de Agravo Interno e Regimental — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154508" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-3-243.pdf/@@display-file/file" target="_blank">PDF</a>
 
 
 
 #### Agravo de Admissibilidade
-- RICARF — Art. 122 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 122 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 ### Recurso de Ofício
 #### Valor Limite para Interposição
-- RICARF — Arts. 58, XIV; 59, X — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Portaria MF nº 2/2023 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/128455" target="_blank">HTML</a> | <a href="https://www.in.gov.br/web/dou/-/portaria-mf-n-2-de-17-de-janeiro-de-2023-458695956" target="_blank">🌐 DOU</a>
+- RICARF — Arts. 58, XIV; 59, X — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Portaria MF nº 2/2023 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/128455" target="_blank">HTML</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-mf-n-2-de-17-de-janeiro-de-2023-458695956" target="_blank">DOU</a>
 
 #### Tramitação / Prioridade
-- RICARF — Art. 86, II — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 86, II — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 ---
 
 ## DINÂMICA DA SESSÃO E DECISÕES
 
 ### Prazo de indicação para a pauta
-- RICARF — Art. 90 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 90 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 ### Recesso do CARF
-- Portaria Carf nº 1501/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140628" target="_blank">HTML</a> | <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1501.pdf" target="_blank">📄 PDF</a>
+- Portaria Carf nº 1501/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140628" target="_blank">HTML</a> | 📄 <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1501.pdf" target="_blank">PDF</a>
 
 ### Vista e adiamento
-- RICARF — Art. 108 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- RICARF — Art. 90, §2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 108 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- RICARF — Art. 90, §2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 ### Modalidades de julgamento
-- RICARF — Arts. 92 a 94 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- RICARF — Art. 93 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Portaria Carf nº 1240/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/139627" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-05-08-2024.pdf" target="_blank">📄 PDF</a> | <a href="https://www.in.gov.br/en/web/dou/-/portaria-carf/mf-n-1.240-de-2-de-agosto-de-2024-576313634" target="_blank">🌐 DOU</a>
+- RICARF — Arts. 92 a 94 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- RICARF — Art. 93 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Portaria Carf nº 1240/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/139627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-05-08-2024.pdf" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/en/web/dou/-/portaria-carf/mf-n-1.240-de-2-de-agosto-de-2024-576313634" target="_blank">DOU</a>
 
 ### Quórum e deliberação
-- RICARF — Art. 97 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- RICARF — Art. 98 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 97 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- RICARF — Art. 98 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 ### Ordem de julgamento e vista em sessão
-- RICARF — Art. 110 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- RICARF — Art. 108 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 110 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- RICARF — Art. 108 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 ### Formalização das decisões
-- RICARF — Art. 114 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 114 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 ### Súmulas
-- RICARF — Arts. 123 a 125 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- RICARF — Arts. 126 a 129 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Portaria Carf nº 414/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/136723" target="_blank">HTML</a> | <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-19-03-2024-10.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 123 a 125 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- RICARF — Arts. 126 a 129 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Portaria Carf nº 414/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/136723" target="_blank">HTML</a> | 📄 <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-19-03-2024-10.pdf" target="_blank">PDF</a>
 ## MANDATO DO CONSELHEIRO
 
 ### Mandato
 #### Duração, Posse, Recondução, Vacância e Extinção
-- RICARF — Arts. 24 a 33, 68, 80 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 24 a 33, 68, 80 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 #### Acesso a sistemas e devolução de equipamentos após extinção do mandato
-- Portaria CARF/MF nº 1.671/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2025/portaria-carf-mf-no-1671-de-30-de-julho-de-2025-dispoe-sobre-prazos-de-acesso-aos-sistemas-informatizados-e-de-devolucao-de-equipamentos/@@display-file/file" target="_blank" rel="noopener noreferrer">📄 PDF</a>
+- Portaria CARF/MF nº 1.671/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2025/portaria-carf-mf-no-1671-de-30-de-julho-de-2025-dispoe-sobre-prazos-de-acesso-aos-sistemas-informatizados-e-de-devolucao-de-equipamentos/@@display-file/file" target="_blank">PDF</a>
 
 #### Acesso a sistemas e devolução de equipamentos após extinção do mandato
-- Portaria CARF/MF nº 1.671/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2025/portaria-carf-mf-no-1671-de-30-de-julho-de-2025-dispoe-sobre-prazos-de-acesso-aos-sistemas-informatizados-e-de-devolucao-de-equipamentos/@@display-file/file" target="_blank" rel="noopener noreferrer">📄 PDF</a>
+- Portaria CARF/MF nº 1.671/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2025/portaria-carf-mf-no-1671-de-30-de-julho-de-2025-dispoe-sobre-prazos-de-acesso-aos-sistemas-informatizados-e-de-devolucao-de-equipamentos/@@display-file/file" target="_blank">PDF</a>
 
 ### CSC — Comitê de Seleção de Conselheiros
 #### Critérios, Vagas e Procedimento
@@ -122,22 +122,22 @@
 
 ### Afastamentos e Teletrabalho
 #### Férias, Licenças e Afastamentos
-- RICARF — Arts. 80 a 83 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 80 a 83 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 #### Teletrabalho
-- RICARF — Art. 80 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 80 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 #### Gestação, amamentação, adoção e guarda
-- Portaria CARF/MF nº 1.500/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | <a href="http://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1500.pdf" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 1.500/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="http://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1500.pdf" target="_blank">PDF</a>
 
 #### Capacitação e Desenvolvimento Institucional
 - Portaria CARF/MF nº 2.167/2026
 
 #### Participação em Eventos e Recebimento de Hospitalidades
-- Portaria CARF/MF nº 397/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 397/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a>
 
 #### Consulta sobre Conflito de Interesses
-- Portaria CARF/MF nº 397/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 397/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a>
 
 ---
 
@@ -145,7 +145,7 @@
 
 ### Gratificação de Presença
 #### Requisitos, Cálculo e Pagamento
-- RICARF — Arts. 76 a 78 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 76 a 78 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 ### Metas de Produtividade
 #### Definição, Aferição e Certificação
@@ -153,8 +153,8 @@
 - RICARF
 
 #### Redução de Metas por Capacitação/Cursos
-- Portaria CARF/MF nº 2.167/2026 — Arts. 79 a 88 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 2.167/2026 — Arts. 79 a 88 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
 
 
@@ -164,53 +164,53 @@
 
 ### Gestão de Lotes e Acervo
 #### Lotes Ordinários — Composição, Carga, Prioridade, Dispensa
-- RICARF — Arts. 43, 62, 64, 65, 79 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Portaria CARF/MF nº 404/2025 — Arts. 2-4, 12 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 43, 62, 64, 65, 79 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 404/2025 — Arts. 2-4, 12 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
 
 
 
 
 #### Processos Prioritários — Critérios no Lote Ordinário
-- RICARF — Art. 65 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Portaria CARF/MF nº 404/2025 — Arts. 5º e 6º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 65 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 404/2025 — Arts. 5º e 6º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
 
 
 #### Lotes Extraordinários — Adesão, Horas, Renúncia
-- RICARF — Arts. 43 §4º, 52 I, 62 §3º, 79 §3º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Portaria CARF/MF nº 404/2025 — Arts. 7º a 11 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 43 §4º, 52 I, 62 §3º, 79 §3º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 404/2025 — Arts. 7º a 11 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
 
 
 #### Dispensa de Sorteio e Bloqueio de Distribuição
-- RICARF — Arts. 80 §2º, 83 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Portaria CARF/MF nº 404/2025 — Art. 12 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 80 §2º, 83 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 404/2025 — Art. 12 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
 
 
 #### Pontuação, Redator Designado, Voto Vencedor
-- RICARF — Arts. 79, 43 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 79, 43 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
-- Portaria CARF/MF nº 404/2025 — Arts. 9, 12-17 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">📄 PDF</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 404/2025 — Arts. 9, 12-17 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
 
 
 #### Triagem, Classificação e Formação de Lotes
-- RICARF — Arts. 43, 62 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 43, 62 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
-- Portaria CARF/MF nº 404/2025 — Arts. 9, 12-17 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">📄 PDF</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 404/2025 — Arts. 9, 12-17 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
 
 
 #### Controle de Prazos Regimentais
-- RICARF — Art. 62 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">📄 PDF</a>
-- Portaria CARF/MF nº 404/2025 — Arts. 2-3 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">📄 PDF</a>
+- RICARF — Art. 62 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 404/2025 — Arts. 2-3 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
 
 
@@ -218,33 +218,33 @@
 
 ### Ética
 #### Comissão de Ética
-- RICARF — Arts. 3º, 4º, 55, 56 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-500-comissao-de-etica-carf.pdf" target="_blank">📄 PDF</a>
-- Portaria MF nº 500/2018 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/97714" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-500-comissao-de-etica-carf.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 3º, 4º, 55, 56 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-500-comissao-de-etica-carf.pdf" target="_blank">PDF</a>
+- Portaria MF nº 500/2018 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/97714" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-500-comissao-de-etica-carf.pdf" target="_blank">PDF</a>
 
 
 #### Vedação de Divulgação de Informação Privilegiada
-- Portaria CARF/MF nº 397/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank" rel="noopener noreferrer">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank" rel="noopener noreferrer">📄 PDF</a>
+- Portaria CARF/MF nº 397/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a>
 
 #### Código de Conduta Ética
-- Portaria CARF nº 21/2019 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | <a href="https://carf.economia.gov.br/noticias/2019/arquivos-e-imagens/portaria-carf-21-2019-codigo-conduta-etica.pdf/view" target="_blank" rel="noopener noreferrer">📄 PDF</a>
+- Portaria CARF nº 21/2019 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://carf.economia.gov.br/noticias/2019/arquivos-e-imagens/portaria-carf-21-2019-codigo-conduta-etica.pdf/view" target="_blank">PDF</a>
 
 ### Políticas Institucionais
 #### Política da Qualidade
-- Portaria CARF/MF nº 2.321/2026 — Arts. 1º a 16 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152745" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf_mf-no-2-321-de-5-de-agosto-de-2026-portaria-carf_mf-no-2-321-de-5-de-agosto-de-2026-dou-imprensa-nacional.pdf/@@display-file/file" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 2.321/2026 — Arts. 1º a 16 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152745" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf_mf-no-2-321-de-5-de-agosto-de-2026-portaria-carf_mf-no-2-321-de-5-de-agosto-de-2026-dou-imprensa-nacional.pdf/@@display-file/file" target="_blank">PDF</a>
 
 #### Política Antissuborno
-- Portaria CARF/MF nº 2.324/2026 — — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152744" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf_mf-no-2-324-de-5-de-agosto-de-2026-portaria-carf_mf-no-2-324-de-5-de-agosto-de-2026-dou-imprensa-nacional.pdf/@@display-file/file" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 2.324/2026 — — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152744" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf_mf-no-2-324-de-5-de-agosto-de-2026-portaria-carf_mf-no-2-324-de-5-de-agosto-de-2026-dou-imprensa-nacional.pdf/@@display-file/file" target="_blank">PDF</a>
 
 #### Política de Integridade
-- Portaria CARF/MF nº 2.325/2026 — — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152743" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf_mf-no-2-325-de-5-de-agosto-de-2026-portaria-carf_mf-no-2-325-de-5-de-agosto-de-2026-dou-imprensa-nacional.pdf/@@display-file/file" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 2.325/2026 — — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152743" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf_mf-no-2-325-de-5-de-agosto-de-2026-portaria-carf_mf-no-2-325-de-5-de-agosto-de-2026-dou-imprensa-nacional.pdf/@@display-file/file" target="_blank">PDF</a>
 
 ### Infraestrutura Tecnológica e Sessões
 #### Sessões Virtuais e Híbridas
-- RICARF — Arts. 92 a 94 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">📄 PDF</a>
+- RICARF — Arts. 92 a 94 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
-- Portaria CARF/MF nº 1.239/2024 — — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/139626" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-05-08-2024.pdf" target="_blank">📄 PDF</a>
-- Portaria CARF/MF nº 1.240/2024 — Arts. 1-4, 8-26, 52-56 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/139627" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-05-08-2024.pdf" target="_blank">📄 PDF</a>
-- Portaria CARF/MF nº 2.303/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152701" target="_blank">HTML</a> | <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-2303-de-4-de-agosto-de-2026-institui-o-sistema-integrado-de-gestao-do-conselho-administrativo-de-recursos-fiscais-siges/@@display-file/file" target="_blank">📄 PDF</a>
+- Portaria CARF/MF nº 1.239/2024 — — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/139626" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-05-08-2024.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 1.240/2024 — Arts. 1-4, 8-26, 52-56 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/139627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-05-08-2024.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 2.303/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152701" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-2303-de-4-de-agosto-de-2026-institui-o-sistema-integrado-de-gestao-do-conselho-administrativo-de-recursos-fiscais-siges/@@display-file/file" target="_blank">PDF</a>
 
 
 
