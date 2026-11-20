@@ -105,7 +105,7 @@
 - RICARF — Arts. 24 a 33, 68, 80 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 #### Acesso a sistemas e devolução de equipamentos após extinção do mandato
-- Portaria CARF/MF nº 1.671/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2025/portaria-carf-mf-no-1671-de-30-de-julho-de-2025-dispoe-sobre-prazos-de-acesso-aos-sistemas-informatizados-e-de-devolucao-de-equipamentos/@@display-file/file" target="_blank">PDF</a>
+- Portaria CARF/MF nº 1.671/2025 — 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/conselheiros-do-carf/vencimentos-de-mandatos-carf-1.pdf" target="_blank">PDF</a>
 
 ### CSC — Comitê de Seleção de Conselheiros
 #### Critérios, Vagas e Procedimento
@@ -145,7 +145,7 @@
 - RICARF — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 #### Redução de Metas por Capacitação/Cursos
-- Portaria CARF/MF nº 2.167/2026 — Arts. 79 a 88
+- Portaria CARF/MF nº 2.167/2026
 - Portaria CARF/MF nº 1.500/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="http://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1500.pdf" target="_blank">PDF</a>
 
 #### Incentivo à Capacitação para Recondução
