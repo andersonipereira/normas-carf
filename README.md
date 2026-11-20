@@ -204,6 +204,7 @@
 - Portaria MF nº 500/2018 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/97714" target="_blank">HTML</a> | <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-do-mf-de-interesse-do-carf-2018/portaria-mf-500-comissao-de-etica-carf.pdf" target="_blank">📄 PDF</a>
 
 #### Código de Conduta Ética
+- Portaria CARF nº 21/2019 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | <a href="https://carf.economia.gov.br/noticias/2019/arquivos-e-imagens/portaria-carf-21-2019-codigo-conduta-etica.pdf/view" target="_blank" rel="noopener noreferrer">📄 PDF</a>
 
 ### Políticas Institucionais
 #### Política da Qualidade
