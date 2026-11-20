@@ -189,7 +189,7 @@
 - Portaria CARF/MF nº 397/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a>
 
 #### Código de Conduta Ética
-- Portaria CARF nº 21/2019 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2019/portaria_carf-21-codigo-de-conduta-etica-dos-agentes-publicos-do-carf.pdf" target="_blank">PDF</a>
+- Portaria CARF nº 21/2019 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2019/portaria_carf-21-codigo-de-conduta-etica-dos-agentes-publicos-do-carf.pdf" target="_blank">PDF</a>
 
 ### Políticas Institucionais
 #### Política Antissuborno
