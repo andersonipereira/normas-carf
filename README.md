@@ -114,8 +114,6 @@
 #### Acesso a sistemas e devolução de equipamentos após extinção do mandato
 - Portaria CARF/MF nº 1.671/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2025/portaria-carf-mf-no-1671-de-30-de-julho-de-2025-dispoe-sobre-prazos-de-acesso-aos-sistemas-informatizados-e-de-devolucao-de-equipamentos/@@display-file/file" target="_blank">PDF</a>
 
-#### Acesso a sistemas e devolução de equipamentos após extinção do mandato
-- Portaria CARF/MF nº 1.671/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2025/portaria-carf-mf-no-1671-de-30-de-julho-de-2025-dispoe-sobre-prazos-de-acesso-aos-sistemas-informatizados-e-de-devolucao-de-equipamentos/@@display-file/file" target="_blank">PDF</a>
 
 ### CSC — Comitê de Seleção de Conselheiros
 #### Critérios, Vagas e Procedimento
@@ -135,10 +133,10 @@
 - Portaria CARF/MF nº 2.167/2026
 
 #### Participação em Eventos e Recebimento de Hospitalidades
-- Portaria CARF/MF nº 397/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a>
+- Portaria CARF/MF nº 397/2026 — Arts. 1º a 2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a>
 
 #### Consulta sobre Conflito de Interesses
-- Portaria CARF/MF nº 397/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a>
+- Portaria CARF/MF nº 397/2026 — Arts. 3º a 4º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a>
 
 ---
 
@@ -238,6 +236,5 @@
 
 #### Política de Integridade
 - Portaria CARF/MF nº 2.325/2026 — — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152743" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf_mf-no-2-325-de-5-de-agosto-de-2026-portaria-carf_mf-no-2-325-de-5-de-agosto-de-2026-dou-imprensa-nacional.pdf/@@display-file/file" target="_blank">PDF</a>
-
 
 
