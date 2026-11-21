@@ -75,7 +75,7 @@
 
 ### Súmulas
 - RICARF — Arts. 123 a 129 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
-- Portaria Carf nº 414/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/136723" target="_blank">HTML</a> | 📄 <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-19-03-2024-10.pdf" target="_blank">PDF</a>
+- Portaria Carf nº 414/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/136723" target="_blank">HTML</a> |
 ## MANDATO DO CONSELHEIRO
 
 ### Mandato
@@ -97,7 +97,7 @@
 - RICARF — Art. 80 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 #### Gestação, amamentação, adoção e guarda
-- Portaria CARF/MF nº 1.500/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="http://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1500.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 1.500/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1500.pdf" target="_blank">PDF</a>
 
 #### Capacitação e Desenvolvimento Institucional
 - Portaria CARF/MF nº 2.167/2026
@@ -123,7 +123,7 @@
 - Portaria CARF/MF nº 2.167/2026
 
 #### Redução de Metas por Capacitação/Cursos
-- Portaria CARF/MF nº 1.500/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="http://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1500.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 1.500/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1500.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 2.167/2026
 
 #### Incentivo à Capacitação para Recondução
@@ -132,31 +132,31 @@
 ### Gestão de Lotes e Acervo
 #### Lotes Ordinários — Composição, Carga (110h), Prioridade, Dispensa do sorteio
 - RICARF — Arts. 43, 62, 65, 79 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 —
 - Portaria MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
 - Portaria CARF/MF nº 404/2025 — Arts. 5, 6, 9, 12 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 
 #### Lotes Extraordinários — Gratificação por Assunção de Serviço Extraordinário (126h + 84h = 4×21h)
 - RICARF — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 —
 - Portaria MF nº 278/2025 — Arts. 2º §1º II, 6º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
 - Portaria CARF/MF nº 404/2025 — Arts. 3º §3º, 10, 11 §3, 13 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 
 #### Redução de Meta por Atividades (voto vencedor, redator, substituto)
 - RICARF — Arts. 43, 79 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 9 §1º, 19, 20 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 9 §1º, 19, 20 —
 - Portaria MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
 - Portaria CARF/MF nº 404/2025 — Art. 12 §4º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 
 #### Triagem, Classificação e Formação de Lotes
 - RICARF — Arts. 43, 62 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 —
 - Portaria MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
 - Portaria CARF/MF nº 404/2025 — Arts. 2 a 6, 8, 12 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 
 #### Controle de prazos pelo conselheiro
 - RICARF — Art. 62 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 —
 - Portaria MF nº 278/2025 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
 - Portaria CARF/MF nº 404/2025 — Arts. 2 a 3, 14 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 ## ÉTICA E POLÍTICAS INSTITUCIONAIS
