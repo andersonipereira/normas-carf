@@ -54,7 +54,7 @@
 - RICARF — Art. 90 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 ### Recesso do CARF
-- Portaria Carf nº 1501/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140628" target="_blank">HTML</a> | 📄 <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1501.pdf" target="_blank">PDF</a>
+- Portaria Carf nº 1.501/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140628" target="_blank">HTML</a> | 📄 <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1501.pdf" target="_blank">PDF</a>
 
 ### Vista e adiamento
 - RICARF — Arts. 90, §2º e 108 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
@@ -63,7 +63,7 @@
 - RICARF — Arts. 92 a 94 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 - Portaria Carf/MF nº 1.239/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/139626" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-05-08-2024.pdf" target="_blank">PDF</a>
 
-- Portaria Carf nº 1240/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/139627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-05-08-2024.pdf" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-1.240-de-2-de-agosto-de-2024-576313634" target="_blank">DOU</a>
+- Portaria Carf nº 1.240/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/139627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-05-08-2024.pdf" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-1.240-de-2-de-agosto-de-2024-576313634" target="_blank">DOU</a>
 ### Quórum e deliberação
 - RICARF — Arts. 97 e 98 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
