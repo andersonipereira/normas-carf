@@ -98,6 +98,11 @@
 
 
 
+
+---
+
+## PRODUTIVIDADE, METAS E LOTES
+
 ### Gratificação de Presença
 #### Requisitos
 - RICARF — Arts. 76 a 78 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
