@@ -121,9 +121,9 @@
 
 ### Metas de Produtividade
 #### Definição, Aferição e Certificação
-- Portaria CARF/MF nº 20.176/2020 — Art. 12 §1º (meta 126h mensais), §2º (aferição trimestral), §3º (período aquisitivo) — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
-- Portaria MF nº 278/2025 — Art. 4º (aferição presença síncrona/assíncrona), Art. 8º (metas, monitoramento, avaliação trimestral) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
 - RICARF — Art. 45 XVII (perda de mandato por não cumprimento de metas) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Art. 12 §1º, §2º, §3º — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+- Portaria MF nº 278/2025 — Art. 4º, Art. 8º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
 
 #### Redução de Metas
 
@@ -134,17 +134,17 @@
 - Portaria CARF/MF nº 20.176/2020 — Arts. 9º a 12 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
 
 #### Formalização de Voto Vencedor / Redator
-- Portaria CARF/MF nº 404/2025 — Art. 9º §1º (50% HE processo, min 2h, máx 15h), §2º (sessão extra: -4 HE) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria-carf-mf-no-404" target="_blank">PDF</a>
-- Portaria CARF/MF nº 20.176/2020 — Art. 12 §4º (teto 126 HE/mês voto vencedor + deduções) — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Art. 12 §4º — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+- Portaria CARF/MF nº 404/2025 — Art. 9º §1º, §2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria-carf-mf-no-404" target="_blank">PDF</a>
 
 #### Substituição (Conselheiro Substituto)
-- Portaria CARF/MF nº 20.176/2020 — Art. 20 (-4 HE/sessão) — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Art. 20 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
 
 #### Presidentes de Seção, Câmara e Turmas
-- Portaria CARF/MF nº 20.176/2020 — Art. 19 (Presidentes Seção: 110 HE; Câmara/Turmas: 55 HE) — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Art. 19 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
 
 #### Capacitação e Desenvolvimento Institucional
-- Portaria CARF/MF nº 2.167/2026 — Art. 2º §2º (carga horária para recondução)
+- Portaria CARF/MF nº 2.167/2026 — Art. 2º §2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank">HTML</a>
 
 
 
