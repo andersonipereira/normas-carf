@@ -119,7 +119,12 @@
 - RICARF — Arts. 76 a 78 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 - Portaria MF nº 278/2025 — Art. 2º, Art. 4º, Art. 5º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
 
-### Redução de Metas
+### Metas de Produtividade
+#### Redução de Metas
+
+#### Definição, Aferição e Certificação
+- RICARF — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-27-06-2024-regulamenta-metas" target="_blank">PDF</a>
+
 #### Gestação, Amamentação, Adoção e Guarda
 - Portaria CARF/MF nº 1.500/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1500.pdf" target="_blank">PDF</a>
 
