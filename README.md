@@ -140,11 +140,15 @@
 - Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 404/2025 — Arts. 3º §3º, 10, 11 §3, 13 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
 
-#### Redução de Meta por Atividades (voto vencedor, redator, substituto)
+#### Redução de Meta por Atividades
 - RICARF — Arts. 43, 79 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
-- Portaria CARF/MF nº 20.176/2020 — Arts. 9 §1º, 19, 20 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Arts. 9 §1º, 19, 20 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
 - Portaria MF nº 278/2025 — Art. 2º §1º II, Art. 6º §1º-§2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
-- Portaria CARF/MF nº 404/2025 — Art. 12 §4º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a>
+
+
+#### Formalização de Voto Vencedor / Redator
+- Portaria CARF/MF nº 404/2025 — Art. 9º §1º (50% HE processo, min 2h, máx 15h), §2º (sessão extra: -4 HE) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria-carf-mf-no-404" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Art. 12 (teto 126 HE/mês voto vencedor + deduções) — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
 
 #### Triagem, Classificação e Formação de Lotes
 - RICARF — Arts. 43, 62 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
