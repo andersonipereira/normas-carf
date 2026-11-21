@@ -99,7 +99,7 @@
 #### Gestação, amamentação, adoção e guarda
 - Portaria CARF/MF nº 1.500/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1500.pdf" target="_blank">PDF</a>
 
-#### Capacitação e Desenvolvimento Institucional
+#### Incentivo à Capacitação para Recondução
 - Portaria CARF/MF nº 2.167/2026
 
 #### Participação em Eventos e Recebimento de Hospitalidades
