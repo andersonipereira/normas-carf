@@ -118,14 +118,38 @@
 
 ### Redução de Metas
 
-#### Redução de Metas — Base Regimental (Portaria 20.176/2020)
-- Portaria CARF/MF nº 20.176/2020 — Arts. 9º a 12, 19, 20, Art. 12 §4º — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+#### Presidência de Turma Interina
+- Portaria CARF/MF nº 20.176/2020 — Arts. 9º a 12 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+
+#### Formalização de Voto Vencedor / Redator
+- Portaria CARF/MF nº 20.176/2020 — Art. 12 §4º — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+- Portaria CARF/MF nº 404/2025 — Art. 9º §1º, §2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-404-de-25-de-fevereiro-de-2025-615367877" target="_blank">DOU</a>
+
+#### Substituição (Conselheiro Substituto)
+- Portaria CARF/MF nº 20.176/2020 — Art. 20 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+
+#### Presidentes de Seção, Câmara e Turmas
+- Portaria CARF/MF nº 20.176/2020 — Art. 19 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
 
 #### Gestação, Amamentação, Adoção e Guarda
 - Portaria CARF/MF nº 1.500/2024 — Art. 4º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-16-04-2024-regulamenta-metas" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-1.500-de-20-de-setembro-de-2024-585890025" target="_blank">DOU</a>
 
+#### Capacitação e Desenvolvimento Institucional
+- Portaria CARF/MF nº 2.167/2026 — Art. 2º §2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank">HTML</a>#### Gestação, Amamentação, Adoção e Guarda
+- Portaria CARF/MF nº 1.500/2024 — Art. 4º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-16-04-2024-regulamenta-metas" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-1.500-de-20-de-setembro-de-2024-585890025" target="_blank">DOU</a>
+
+#### Presidência de Turma Interina
+- Portaria CARF/MF nº 20.176/2020 — Arts. 9º a 12 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+
 #### Formalização de Voto Vencedor / Redator
+- Portaria CARF/MF nº 20.176/2020 — Art. 12 §4º — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
 - Portaria CARF/MF nº 404/2025 — Art. 9º §1º, §2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-404-de-25-de-fevereiro-de-2025-615367877" target="_blank">DOU</a>
+
+#### Substituição (Conselheiro Substituto)
+- Portaria CARF/MF nº 20.176/2020 — Art. 20 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+
+#### Presidentes de Seção, Câmara e Turmas
+- Portaria CARF/MF nº 20.176/2020 — Art. 19 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
 
 #### Capacitação e Desenvolvimento Institucional
 - Portaria CARF/MF nº 2.167/2026 — Art. 2º §2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank">HTML</a>
@@ -157,7 +181,17 @@
 
 ### Ética
 
+#### Código de Conduta Ética
+- Portaria CARF/MF nº 21/2019 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2019/portaria_carf-21-codigo-de-conduta-etica-dos-agentes-publicos-do-carf.pdf" target="_blank">PDF</a>
+
 #### Consulta sobre Conflito de Interesses
+- Portaria CARF/MF nº 397/2026 — Arts. 3º a 4º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-397-de-12-de-fevereiro-de-2026-687818096" target="_blank">DOU</a>
+
+#### Participação em Eventos e Recebimento de Hospitalidades
+- Portaria CARF/MF nº 397/2026 — Arts. 1º a 2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-397-de-12-de-fevereiro-de-2026-687818096" target="_blank">DOU</a>
+
+#### Vedação de Divulgação de Informação Privilegiada
+- Portaria CARF/MF nº 397/2026 — Art. 6º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank" rel="noopener noreferrer">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-397-de-12-de-fevereiro-de-2026-687818096" target="_blank">DOU</a>#### Consulta sobre Conflito de Interesses
 - Portaria CARF/MF nº 397/2026 — Arts. 3º a 4º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149397" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-397-de-12-de-fevereiro-de-2026-disciplina-a-participacao-ativa-de-agentes-publicos.pdf/@@display-file/file" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-397-de-12-de-fevereiro-de-2026-687818096" target="_blank">DOU</a>
 
 #### Participação em Eventos e Recebimento de Hospitalidades
