@@ -114,7 +114,7 @@
 - Portaria CARF/MF nº 20.176/2020 — Art. 12 §1º, §2º, §3º — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
 - Portaria MF nº 278/2025 — Art. 4º, Art. 8º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-mf-n-278-de-12-de-fevereiro-de-2025-612629041" target="_blank">DOU</a>
 
-#### Redução de Metas
+### Redução de Metas
 
 #### Gestação, Amamentação, Adoção e Guarda
 - Portaria CARF/MF nº 1.500/2024 — Art. 4º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-16-04-2024-regulamenta-metas" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-1.500-de-20-de-setembro-de-2024-585890025" target="_blank">DOU</a>
