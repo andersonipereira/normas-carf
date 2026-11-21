@@ -88,15 +88,14 @@
 - Portaria CARF/MF nº 1.671/2025 — 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2025/portaria-carf-mf-no-1671-de-30-de-julho-de-2025-dispoe-sobre-prazos-de-acesso-aos-sistemas-informatizados-e-de-devolucao-de-equipamentos/@@display-file/file" target="_blank">PDF</a>
 
 ### CSC — Comitê de Seleção de Conselheiros
-#### Critérios, Vagas e Procedimento
-- Portaria CARF/MF nº 3.274/2026 — Arts. 1º a 12 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank">HTML</a>
-
 #### Gestação, amamentação, adoção e guarda
 - Portaria CARF/MF nº 1.500/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1500.pdf" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-1.500-de-20-de-setembro-de-2024-585890025" target="_blank">DOU</a>
 
-
 #### Incentivo à Capacitação para Recondução
 - Portaria CARF/MF nº 2.167/2026
+
+#### Critérios, Vagas e Procedimento
+- Portaria CARF/MF nº 3.274/2026 — Arts. 1º a 12 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank">HTML</a>
 
 
 
@@ -118,9 +117,6 @@
 
 ### Redução de Metas
 
-#### Gestação, Amamentação, Adoção e Guarda
-- Portaria CARF/MF nº 1.500/2024 — Art. 4º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-16-04-2024-regulamenta-metas" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-1.500-de-20-de-setembro-de-2024-585890025" target="_blank">DOU</a>
-
 #### Presidência de Turma Interina
 - Portaria CARF/MF nº 20.176/2020 — Arts. 9º a 12 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
 
@@ -133,6 +129,9 @@
 
 #### Presidentes de Seção, Câmara e Turmas
 - Portaria CARF/MF nº 20.176/2020 — Art. 19 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+
+#### Gestação, Amamentação, Adoção e Guarda
+- Portaria CARF/MF nº 1.500/2024 — Art. 4º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140627" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-16-04-2024-regulamenta-metas" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-1.500-de-20-de-setembro-de-2024-585890025" target="_blank">DOU</a>
 
 #### Capacitação e Desenvolvimento Institucional
 - Portaria CARF/MF nº 2.167/2026 — Art. 2º §2º — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154545" target="_blank">HTML</a>
