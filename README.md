@@ -121,8 +121,9 @@
 
 ### Metas de Produtividade
 #### Definição, Aferição e Certificação
-- Portaria MF nº 278/2025 — Arts. 4º (aferição presença), 8º (metas, monitoramento, avaliação) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
-- RICARF — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- Portaria CARF/MF nº 20.176/2020 — Art. 12 §1º (meta 126h mensais), §2º (aferição trimestral), §3º (período aquisitivo) — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento" target="_blank">PDF</a>
+- Portaria MF nº 278/2025 — Art. 4º (aferição presença síncrona/assíncrona), Art. 8º (metas, monitoramento, avaliação trimestral) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142810" target="_blank">HTML</a>
+- RICARF — Art. 45 XVII (perda de mandato por não cumprimento de metas) — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
 #### Redução de Metas
 
