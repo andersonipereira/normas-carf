@@ -13,7 +13,7 @@
 ## ORGANIZAÇÃO E COMPETÊNCIA
 
 ### Competência
-- RICARF (Portaria MF nº 1.634/2023) — Arts. 42 a 51 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- RICARF (Anexo da Portaria MF nº 1.634/2023) — Arts. 42 a 51 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 #### Extensão de Competência — 2ª e 3ª Seções
 - Portaria CARF/MF nº 3.087/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154193" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-3087-estende-temporariamente-a-competencia-para-julgar-recursos-referentes-a-irrf/@@display-file/file" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-3.087-de-14-de-outubro-de-2026-739315651" target="_blank">DOU</a>
 
