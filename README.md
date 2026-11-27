@@ -1,6 +1,6 @@
 # Índice Sistemático-Remissivo de Normas do CARF
 
-> [!NOTE]
+> [!NOTE] Observações
 > _Compilado dos links disponíveis em sistemas públicos para facilitar o acesso às normas administrativas do CARF._
 >
 > _Os links HTML (🔗) abrem o sistema de normas da SRFB; os links PDF (📄) abrem os arquivos disponíveis nas páginas do CARF; os links DOU (🌐) abrem a norma no Diário Oficial da União._
@@ -13,16 +13,26 @@
 ## ORGANIZAÇÃO E COMPETÊNCIA
 
 ### Competência
-- RICARF (Anexo da Portaria MF nº 1.634/2023) — Arts. 42 a 51 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- RICARF (Anexo da Portaria MF nº 1.634/2023) — Arts. 43 a 51 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+	- Seções — Arts. 43 a 45
+	- Câmara Superior — Arts. 50 e 51
+	- Relator, por conexão, decorrência ou reflexo — Art. 47
+	- Para apreciar compensação, ressarcimento, restituição e reembolso, etc. — Arts. 48 e 49
+	- Possibilidade de extensão pelo Presidente — Art. 46
 #### Extensão de Competência — 2ª e 3ª Seções
 - Portaria CARF/MF nº 3.087/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154193" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf-mf-no-3087-estende-temporariamente-a-competencia-para-julgar-recursos-referentes-a-irrf/@@display-file/file" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-3.087-de-14-de-outubro-de-2026-739315651" target="_blank">DOU</a>
 
 ### Estrutura e Composição dos Colegiados
-#### Estrutura e Composição dos Colegiados
-- RICARF — Arts. 62 a 73 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
-
 #### Atribuições dos Presidentes e Vice-Presidentes
-- RICARF — Arts. 57 a 61 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+- RICARF — Arts. 58 a 61 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+	- Turmas — Art. 58
+	- Câmaras — Art. 59
+	- Seções — Art. 60
+	- CARF — Art. 61
+#### Estrutura e Composição dos Colegiados
+- RICARF — Arts. 62 a 67 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
+
+
 
 ---
 
