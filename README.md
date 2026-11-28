@@ -32,7 +32,7 @@
 #### Composição dos Colegiados
 - RICARF — Arts. 62 a 67 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135413" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-de-interesse-do-carf-2023/portaria-22-12-2023-regimento-interno-do-conselho-administrativo-de-recursos-fiscais.pdf" target="_blank">PDF</a>
 
----
+
 ## MANDATO DO CONSELHEIRO
 
 ### Mandato
@@ -49,7 +49,7 @@
 #### Incentivo à Capacitação para Recondução
 - Portaria CARF/MF nº 2.167/2026
 
----
+
 ## PRODUTIVIDADE, METAS E LOTES
 
 ### Gratificação de Presença
@@ -97,7 +97,7 @@
 - Portaria CARF/MF nº 20.176/2020 — Arts. 1º a 10 — 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2020/portaria-carf-20176-controle-do-cumprimento-de-prazos-regimentais.pdf" target="_blank">PDF</a>
 - Portaria CARF/MF nº 404/2025 — Arts. 2 a 3, 14 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143066" target="_blank">HTML</a> | 📄 <a href="https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2025/portaria.pdf" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-404-de-25-de-fevereiro-de-2025-615367877" target="_blank">DOU</a>
 
----
+
 ## PROCESSO E RECURSOS
 
 ### Prazo de indicação para a pauta
@@ -126,7 +126,6 @@
 - Portaria CARF/MF nº 587/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/137373" target="_blank">HTML</a> | 📄 <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-16-04-2024-regulamenta-a-apresentacao-de-desistencia-de-resursos-especial.pdf" target="_blank">PDF</a>
 
 
----
 ## DINÂMICA DA SESSÃO E DECISÕES
 
 ### Modalidades de julgamento
@@ -153,7 +152,7 @@
 ### Recesso do CARF
 - Portaria CARF/MF nº 1.501/2024 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/140628" target="_blank">HTML</a> | 📄 <a href="http://idg.carf.fazenda.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-carf-2024/portaria-1501.pdf" target="_blank">PDF</a>
 
----
+
 ## ÉTICA E POLÍTICAS INSTITUCIONAIS
 
 ### Ética
