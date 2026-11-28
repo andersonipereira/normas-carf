@@ -8,7 +8,7 @@
 > _Algumas normas podem não conter link específico porque não foram encontradas nas fontes públicas até o momento._
 >
 
----
+
 ## ORGANIZAÇÃO E COMPETÊNCIA
 
 ### Competência
