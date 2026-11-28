@@ -183,5 +183,3 @@
 - Portaria CARF/MF nº 2.324/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152744" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf_mf-no-2-324-de-5-de-agosto-de-2026-portaria-carf_mf-no-2-324-de-5-de-agosto-de-2026-dou-imprensa-nacional.pdf/@@display-file/file" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-2.324-de-5-de-agosto-de-2026-723814701" target="_blank">DOU</a>
 #### Integridade
 - Portaria CARF/MF nº 2.325/2026 — 🔗 <a href="https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152743" target="_blank">HTML</a> | 📄 <a href="https://www.gov.br/carf/pt-br/acesso-a-informacao/atos-administrativos-carf/portarias-carf/2026/portaria-carf_mf-no-2-325-de-5-de-agosto-de-2026-portaria-carf_mf-no-2-325-de-5-de-agosto-de-2026-dou-imprensa-nacional.pdf/@@display-file/file" target="_blank">PDF</a> | 🌐 <a href="https://www.in.gov.br/web/dou/-/portaria-carf/mf-n-2.325-de-5-de-agosto-de-2026-723816552" target="_blank">DOU</a>
-
-
