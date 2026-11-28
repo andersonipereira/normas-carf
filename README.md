@@ -1,5 +1,7 @@
 # Índice Sistemático-Remissivo de Normas do CARF
 
+---
+
 > [!NOTE] Observações
 >
 > _Compilado dos links disponíveis em sistemas públicos para facilitar o acesso às normas administrativas do CARF._
@@ -8,6 +10,7 @@
 >
 > _Algumas normas podem não conter link específico porque não foram encontradas nas fontes públicas até o momento._
 
+---
 
 ## ORGANIZAÇÃO E COMPETÊNCIA
 
