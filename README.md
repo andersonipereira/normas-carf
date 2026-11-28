@@ -1,6 +1,6 @@
 # Índice Sistemático-Remissivo de Normas do CARF
 
-[!NOTE] Observações
+> [!tip] Observações
 >
 > _Compilado dos links disponíveis em sistemas públicos para facilitar o acesso às normas administrativas do CARF._
 >
